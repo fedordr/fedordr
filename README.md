@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fedordr
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning DAX
+- 🌱 I’m currently learning DAX, Power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fedordr@ya.ru
 
